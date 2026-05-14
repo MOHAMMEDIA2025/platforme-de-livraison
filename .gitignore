@@ -1,1 +1,4 @@
-".env__pycache__/*.pyc*.pyo.DS_Store" 
+.env 
+serviceAccountKey.json 
+__pycache__/ 
+*.pyc 
